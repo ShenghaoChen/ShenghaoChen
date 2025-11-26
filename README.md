@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm ShenghaoChen 👋
 
-<!--
-**ShenghaoChen/ShenghaoChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in **Network & Information Security**  
+💻 Interested in **Machine Vision**、 **Image Quality Assessment** and **Java**  
+🌱 Currently working on **fabric defect detection** & **blind IQA systems**  
+📍 Based in Guangzhou, China  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Languages:** Java, Python
+- **Frameworks:** Spring Boot, Vue
+- **AI & Vision:** PyTorch, OpenCV, YOLOv8
+- **DevOps:** Docker, Redis, Nginx, Linux
+- **Cloud:** Tencent COS, Qiniu Kodo
+
+---
+
+## 🚀 Projects
+
+- **Chinese Herbal Microscopy Image Library** – Secure backend & retrieval system  
+- **Blind IQA System** – ResNet + adaptive noise transfer matrix  
+- **Fabric Defect Detection System** – Real-time edge inspection with YOLOv8  
+
+---
+
+## 📫 Contact
+
+- Email: 2502781981@qq.com
