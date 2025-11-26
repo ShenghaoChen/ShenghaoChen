@@ -1,7 +1,7 @@
 # Hi, I'm ShenghaoChen 👋
 
-🎓 Master's student in **Network & Information Security** at **Guangdong University of Technology (GDUT)** 
-💻 Interested in **Machine Vision**、 **Image Quality Assessment** and **Java**  
+🎓 Master's student in **Network & Information Security** at **Guangdong University of Technology (GDUT)**  
+💻 Interested in **Machine Vision** & **Image Quality Assessment**  
 🌱 Currently working on **fabric defect detection** & **blind IQA systems**  
 📍 Based in Guangzhou, China  
 
